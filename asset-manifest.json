@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/nehapandey/static/css/main.cf7b8454.css",
-    "main.js": "/nehapandey/static/js/main.418370b7.js",
+    "main.js": "/nehapandey/static/js/main.9609d804.js",
     "static/js/787.1ed0c42c.chunk.js": "/nehapandey/static/js/787.1ed0c42c.chunk.js",
     "static/media/triangle-top.svg": "/nehapandey/static/media/triangle-top.fa6299ef9e830c087691.svg",
     "index.html": "/nehapandey/index.html",
     "main.cf7b8454.css.map": "/nehapandey/static/css/main.cf7b8454.css.map",
-    "main.418370b7.js.map": "/nehapandey/static/js/main.418370b7.js.map",
+    "main.9609d804.js.map": "/nehapandey/static/js/main.9609d804.js.map",
     "787.1ed0c42c.chunk.js.map": "/nehapandey/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf7b8454.css",
-    "static/js/main.418370b7.js"
+    "static/js/main.9609d804.js"
   ]
 }
