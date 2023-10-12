@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nehapandey/static/css/main.21c06677.css",
+    "main.js": "/nehapandey/static/js/main.8da5eb76.js",
+    "static/js/787.1ed0c42c.chunk.js": "/nehapandey/static/js/787.1ed0c42c.chunk.js",
+    "static/media/triangle-top.svg": "/nehapandey/static/media/triangle-top.fa6299ef9e830c087691.svg",
+    "index.html": "/nehapandey/index.html",
+    "main.21c06677.css.map": "/nehapandey/static/css/main.21c06677.css.map",
+    "main.8da5eb76.js.map": "/nehapandey/static/js/main.8da5eb76.js.map",
+    "787.1ed0c42c.chunk.js.map": "/nehapandey/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c06677.css",
+    "static/js/main.8da5eb76.js"
+  ]
+}
